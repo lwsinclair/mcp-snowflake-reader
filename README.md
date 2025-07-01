@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/fnf-deepheading-mcp-snowflake-reader-badge.png)](https://mseep.ai/app/fnf-deepheading-mcp-snowflake-reader)
+
 # MCP Snowflake Reader
 
 [English](#english) | [한국어](#korean)
